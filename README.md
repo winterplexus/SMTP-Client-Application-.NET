@@ -1,5 +1,5 @@
-dot-net-smtp-client
--------------------
+SMTP Client for .NET
+--------------------
 
 SMTP client based on .NET Framework and Windows Presentation Foundation (WPF). The client is a desktop client application used for:
 
